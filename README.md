@@ -1,1 +1,4 @@
-# CS231n study-repository
+# CNN-study-repository
+
+#### 1. Mini Project : Rock-Paper-Scissor Image Classification
+
